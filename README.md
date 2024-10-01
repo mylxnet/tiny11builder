@@ -1,8 +1,8 @@
 # tiny11builder
 
-1.from https://www.uupdump.cn/ download windows iso, Mount to cdrom,get cdrom id;
+1.from https://www.uupdump.cn/ download windows iso, Mount to cdrom,get cdrom  letter;
 <br>
-So you get a iso with tiny11.iso.
+2.So you get a iso with tiny11.iso.
 
 Scripts to build a trimmed-down Windows 11 image - now in **PowerShell**!
 <br>
