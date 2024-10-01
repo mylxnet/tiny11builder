@@ -1,6 +1,6 @@
 # tiny11builder
 
-1.from https://www.uupdump.cn/ download windows iso, jiazai to cdrom,get cdrom id;
+1.from https://www.uupdump.cn/ download windows iso, Mount to cdrom,get cdrom id;
 <br>
 So you get a iso with tiny11.iso.
 
