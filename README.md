@@ -6,7 +6,8 @@
 <br>
 3.unzip the files;
 <br>
-4.So you get a iso with tiny11.iso.
+4.run tiny11maker.ps1 into poweshell;
+<br>So you get a iso with tiny11.iso.
 -----------------------------------------------------------------------------------------------------------------------------
 Scripts to build a trimmed-down Windows 11 image - now in **PowerShell**!
 <br>
