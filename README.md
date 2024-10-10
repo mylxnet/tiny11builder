@@ -3,9 +3,11 @@
 1.from https://www.uupdump.cn/ download windows iso, Mount to cdrom,get cdrom  letter;
 <br>
 2.Download [releases](https://github.com/ntdevlabs/tiny11builder/releases);
+<br>
 3.unzip the files;
+<br>
 4.So you get a iso with tiny11.iso.
-
+-----------------------------------------------------------------------------------------------------------------------------
 Scripts to build a trimmed-down Windows 11 image - now in **PowerShell**!
 <br>
 Tiny11 builder, now completely overhauled.
