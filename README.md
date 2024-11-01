@@ -9,6 +9,20 @@
 4.run tiny11maker.ps1 into poweshell;
 <br>So you get a iso with tiny11.iso.
 -----------------------------------------------------------------------------------------------------------------------------
+错误排查：
+
+因为在此系统上禁止运行脚本。有关详细信息，请参阅 https:/go.microsoft.com/fwlink/?LinkID=135170
+中 的 about_Execution_Policies。
+
+解决方案
+
+以管理员模式 打开Windows PowerShell（一般快捷键 win+x 可以唤醒 进行选择）
+PowerShell输入get-ExecutionPolicy 此时返回 Restricted
+PowerShell输入set-ExecutionPolicy RemoteSigned
+PowerShell返回结果 输入Y进行设置
+
+
+
 Scripts to build a trimmed-down Windows 11 image - now in **PowerShell**!
 <br>
 Tiny11 builder, now completely overhauled.
